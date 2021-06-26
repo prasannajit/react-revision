@@ -1,2 +1,3 @@
-# react-revision
-Revision of react concepts
+# React anf typescript project
+
+## Uses webpack as module bundler
